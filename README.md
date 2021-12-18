@@ -28,11 +28,12 @@ L'objectif est d'optimiser un site web existant : Ma chouette agence.<br>
 <br>
 <br>
 
-Accès au projet : https://100sue.github.io/RolandAPPERT_4_01122021/
+Accès au projet : 
 
 <br>
 
-![logo]
+
+![logo](https://user-images.githubusercontent.com/90606431/145068736-ca5dc2dc-3ae9-4f9c-85b0-83086cb75c39.png)
  <br>
  
  Résultats initiaux :
