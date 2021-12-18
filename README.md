@@ -32,7 +32,7 @@ Accès au projet : https://100sue.github.io/RolandAPPERT_4_01122021/
 
 <br>
 
-![logo](https://user-images.githubusercontent.com/90606431/145068736-ca5dc2dc-3ae9-4f9c-85b0-83086cb75c39.png)
+![logo]
  <br>
  
  Résultats initiaux :
